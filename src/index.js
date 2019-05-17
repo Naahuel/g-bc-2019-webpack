@@ -1,6 +1,6 @@
 /**
  * Los estilos principales los importo desde JS
- * webpack se encarga de compilarlo a un archivo CSS y linkearlo en el HTML
+ * webpack se encarga de compilarlo y linkearlo en el HTML
  */
 import "./styles/styles.scss";
 
